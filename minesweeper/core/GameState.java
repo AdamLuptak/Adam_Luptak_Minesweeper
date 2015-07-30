@@ -4,7 +4,7 @@ package minesweeper.core;
  * Game state.
  */
 public enum GameState {
-    /** Playing game. */
+    /** Playing game. sddfsdgsdgsdgdg*/
     PLAYING,
     
     /** Game failed. */
